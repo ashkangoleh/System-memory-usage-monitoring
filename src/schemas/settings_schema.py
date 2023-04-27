@@ -1,3 +1,6 @@
+'''
+Base settings to handle Environments
+'''
 from pydantic import BaseSettings
 
 
