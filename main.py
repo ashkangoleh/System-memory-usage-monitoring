@@ -87,6 +87,6 @@ if __name__ == "__main__":
         port=8000,
         limit_concurrency=500,
         limit_max_requests=1000,
-        # workers=8,
+        workers=4,
         proxy_headers=True
         )
